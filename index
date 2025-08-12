@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Portfolio</title>
+</head>
+<body style="font-family:system-ui; padding:24px;">
+  <h1>Portfolio</h1>
+  <p>
+    <a href="portfolio.pdf" target="_blank">📄 새 탭에서 보기</a> |
+    <a href="portfolio.pdf" download>⬇️ 다운로드</a>
+  </p>
+  <iframe src="portfolio.pdf" style="width:100%;height:85vh;border:0;"></iframe>
+</body>
+</html>
